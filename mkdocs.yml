@@ -1,0 +1,8 @@
+site_name: "dooku"
+site_description: "adsfdgf"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
